@@ -69,5 +69,3 @@ def avg_player_stats():
         data_average = average_data[['pts','fgm','fga','fta']].to_dict(orient="records")
     return data_average
 #Grab the average point, fga, fgm, and fta 
-
-
