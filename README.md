@@ -1,7 +1,7 @@
 # NBA_Season_2023_Dashboards (Deprecated)
 
 # Important
-The dashboards are deprecated since the free access I got included stats and season average but they have changed their policy, which had deprecated the project.
+The dashboards are deprecated since the free access I got doesn't include stats and season averages. Previously, they did allow free tier to use stats and season averages but they have change their policy for the free tier
 
 ## Introduction
 This is an assignment that I have done during the Business Analytics course at Cambrian College. The dashboard is a basic dashboard that shows you the stats of 2 players and the whole season game.
