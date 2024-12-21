@@ -1,6 +1,6 @@
 # NBA_Season_2023_Dashboards (Deprecated)
 
-#Important
+# Important
 The dashboards are deprecated since the free access I got included stats and season average but they have changed their policy, which had deprecated the project.
 
 ## Introduction
